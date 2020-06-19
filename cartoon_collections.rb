@@ -26,5 +26,5 @@ def find_valid_calls(planeteer_calls)
 
   planteer_calls.find {|string| valid_calls.include?
   
- end    
+   
 end 
